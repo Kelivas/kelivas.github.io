@@ -6,4 +6,4 @@ date: 2017-02-17
 
 Using JavaScript and some minimal HTML, I built a simple random sentence generator. The program itself used 3 arrays, one containing nouns, verbs, and adjectives. From there it pulled a random noun, verb or adjective and inserted them into a pre-structured sentence for every occurance in the sentence. 
 
-Project Link: https://github.com/Kelivas/SimpleSentenceGenerator
+Project Link: <link>https://github.com/Kelivas/SimpleSentenceGenerator</link>
